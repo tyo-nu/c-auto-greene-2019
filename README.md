@@ -1,6 +1,6 @@
 READ ME
 
-This repository provides all the code and notebooks used in this [paper](https://www.sciencedirect.com/science/article/pii/S1369703X19301391), currently published at the Biochemical Engineering Journal.
+This repository provides all the code and notebooks used in this [paper](https://www.sciencedirect.com/science/article/pii/S1369703X19301391), published at the Biochemical Engineering Journal.
 
 Net Stoichiometric Core Model of C. autoethanogenum:
 model_core.mat
