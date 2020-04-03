@@ -1,6 +1,6 @@
 READ ME
 
-This repository provides all the code and notebooks used in this [paper](https://www.sciencedirect.com/science/article/pii/S1369703X19301391), currently on bioRxiv.
+This repository provides all the code and notebooks used in this [paper](https://www.sciencedirect.com/science/article/pii/S1369703X19301391), currently published at the Biochemical Engineering Journal.
 
 Net Stoichiometric Core Model of C. autoethanogenum:
 model_core.mat
@@ -29,4 +29,4 @@ Portions of ensemble modeling code was adapted from MATLAB scripts provided by t
 1. Rizk, M. L., and J. C. Liao. 2009. Ensemble modeling and related mathematical modeling of metabolic networks. Journal of the Taiwan Institute of Chemical Engineers 40:595-601.
 2. Tan, Y., J. G. Rivera, C. A. Contador, J. A. Asenjo, and J. C. Liao. 2011. Reducing the allowable kinetic space by constructing ensemble of dynamic models with the same steady-state flux. Metab. Eng. 13:60-75.
 3. Khodayari, A., A. R. Zomorrodi, J. C. Liao, and C. D. Maranas. 2014. A kinetic model of Escherichia coli core metabolism satisfying multiple sets of mutant flux data. Metab. Eng. 25:50-62.
-4. Greene, J. L., Wäechter, A., Tyo, K. E., & Broadbelt, L. J. (2017). Acceleration Strategies to Enhance Metabolic Ensemble Modeling Performance. Biophysical Journal, 113(5), 1150-1162.
+4. Greene, J. L., WÃ¤echter, A., Tyo, K. E., & Broadbelt, L. J. (2017). Acceleration Strategies to Enhance Metabolic Ensemble Modeling Performance. Biophysical Journal, 113(5), 1150-1162.
